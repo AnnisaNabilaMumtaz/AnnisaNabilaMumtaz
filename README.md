@@ -1,4 +1,12 @@
-## Hi there 👋
+# Halo semua! 
+
+Perkenalkan nama saya **Annisa Nabila Mumtaz**.<br>
+
+Saya seorang **Mahasiswi semester 5 dari Universitas Negeri Surabaya (UNESA)** yang mengambil jurusan Sistem Informasi dan tertarik di bidang data. Saat ini saya sedang mengambil **Studi Independen** yang diadakan oleh [Dicoding](https://www.dicoding.com/) yang bekerja sama dengan **Accenture**, yakni [Asah led by Dicoding](https://www.dicoding.com/asah).<br>
+
+Saya juga pernah menjadi coach summer peak AIESEC in Surabaya pada 2025.<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/annisanabilamumtaz/)ku ya.
 
 <!--
 **AnnisaNabilaMumtaz/AnnisaNabilaMumtaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
